@@ -55,7 +55,7 @@ Magento 2 Custom Product Tabs Extension allows you to set conditions based on pr
 
 * **Promote Related Products in Tabs**
 
-Magento 2 Product Tabs Extension is completely compatible with the Automatic Related Product Extension. So you can promote your products closer to the top, just where customers can see them, in product tabs. It ensures your customers’ attention will swift to product tabs with related products and it convinces them to buy more from you.
+Magento 2 Product Tabs Extension is completely compatible with the [Automatic Related Product Extension](https://magefan.com/magento-2-automatic-related-products). So you can promote your products closer to the top, just where customers can see them, in product tabs. It ensures your customers’ attention will swift to product tabs with related products and it convinces them to buy more from you.
 
 ## Demo
 
