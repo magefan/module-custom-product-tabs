@@ -12,7 +12,7 @@ Benefits
 
 
 
-<a href="https://magefan.com/magento-2/extensions/product-tabs"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2/extensions/product-tabs"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2/extensions/product-tabs#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
   
 ## Benefits
 * Better customer engagement
