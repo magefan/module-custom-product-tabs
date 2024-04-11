@@ -10,9 +10,11 @@
 [Magento 2 Custom Product Tabs](https://magefan.com/magento-2/extensions/product-tabs) is an extension that allows you to extend the default Magento function and add multiple product tabs to Magento product tabs for more structured and organized content. This module enables you to create product tabs from the admin panel with no coding.
 Benefits
 
-
-
 <a href="https://magefan.com/magento-2/extensions/product-tabs"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2/extensions/product-tabs#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
   
 ## Benefits
 * Better customer engagement
@@ -21,7 +23,7 @@ Benefits
 
 ## Features
 
-* **Create Custom Product Tabs from Admin Panel**
+### Create Custom Product Tabs from Admin Panel
 
 Since Magento offers you only 3 default product tabs - Details, Mode Information, and Reviews - you have to look for new ways to improve product page structure. Magento 2 Custom Product Tabs Page offers you to add multiple tabs to the product page just from the admin panel via the WYSIWYG editor. You don’t have to change any layouts, or templates or dive into the code. Improve customer experience and add handy tabs with no coding skills.
 
@@ -29,8 +31,7 @@ Since Magento offers you only 3 default product tabs - Details, Mode Information
   <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/add-custom-product-tab-magento.webp">
 </p>
 
-
-* **Add Specific Tabs for Specific Customers**
+### Add Specific Tabs for Specific Customers
 
 This solution allows you to define what customer groups will be able to see certain product tabs on product pages. You might have different delivery to tax terms for retail and wholesale merchants. To offer the best experience for your customers you have to target each with information that suits their specific needs. You can do that now with this Product Tabs Extension.
 
@@ -39,11 +40,11 @@ This solution allows you to define what customer groups will be able to see cert
 </p>
 
 
-* **Define Dates to Display Custom Tabs**
+### Define Dates to Display Custom Tabs
 
 Having some specific offers or sales running and want to notify your customers about it in tabs? Don’t rush changing product page templates. You can set Date From and Date To and define a period when the custom product tab will be available. You can also set a Day of the Week and display the same product tabs only on certain days of the week. E.g. free shipping and delivery, “buy 2 get 3 free” offers, etc.
 
-* **Use Smart Conditions to Add Product Tabs**
+### Use Smart Conditions to Add Product Tabs
 
 Not all products in your store are the same. Each has a certain attribute set assigned to them and serves a certain purpose. Correspondingly you might need to display different information in product tabs for each set of products. 
 
@@ -53,7 +54,7 @@ Magento 2 Custom Product Tabs Extension allows you to set conditions based on pr
   <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-product-page-tabs-conditions.webp">
 </p>
 
-* **Promote Related Products in Tabs**
+### Promote Related Products in Tabs
 
 Magento 2 Product Tabs Extension is completely compatible with the [Automatic Related Product Extension](https://magefan.com/magento-2-automatic-related-products). So you can promote your products closer to the top, just where customers can see them, in product tabs. It ensures your customers’ attention will swift to product tabs with related products and it convinces them to buy more from you.
 
@@ -104,6 +105,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/module-custom-product-tabs/issues).
 
 ## Need More Features?
 Please contact us to get a quote
